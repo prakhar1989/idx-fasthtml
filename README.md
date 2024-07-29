@@ -12,3 +12,4 @@ A quick way to get started with FastHTML on [Project IDX](https://idx.dev)
 </picture>
 </a>
 
+![image](https://github.com/user-attachments/assets/4090cc15-ad6b-4c6b-8b53-2e48643efd6b)
